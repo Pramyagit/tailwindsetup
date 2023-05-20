@@ -1,0 +1,2 @@
+# tailwindsetup
+tailwind css 
